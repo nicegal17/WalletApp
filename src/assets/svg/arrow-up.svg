@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216" height="216" viewBox="0 0 216 216">
+  <defs>
+    <filter id="profile-img" x="0" y="0" width="216" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur"/>
+      <feFlood flood-color="#2c73fc" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-img-2" x="0" y="0" width="216" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-2"/>
+      <feFlood flood-color="#2c73fc" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-img-3" x="0" y="0" width="216" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-3"/>
+      <feFlood flood-color="#2c73fc" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="profile-img-4" x="0" y="0" width="216" height="216" filterUnits="userSpaceOnUse">
+      <feOffset dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="30" result="blur-4"/>
+      <feFlood flood-color="#2c73fc" flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#profile-img)">
+        <circle id="profile-img-5" data-name="profile-img" cx="18" cy="18" r="18" fill="#5486e9"/>
+      </g>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.38" x2="0.38" y2="0.824" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0.4"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="banner_up" data-name="banner/up" transform="translate(90 85)">
+    <g transform="matrix(1, 0, 0, 1, -90, -85)" filter="url(#profile-img-4)">
+      <circle id="profile-img-8" data-name="profile-img" cx="18" cy="18" r="18" transform="translate(90 85)" fill="#5486e9"/>
+    </g>
+    <g id="Mask_Group" data-name="Mask Group">
+      <g id="profile-img-9" data-name="profile-img" clip-path="url(#clip-path)">
+        <path id="Vector_1" data-name="Vector 1" d="M84.548,8.809c-8.667-2.8-27.44-3.52-33.2,16-7.082,24-34.267,24.667-48,27.6C-5.586,24.542-2.172-18.711,84.548,8.809Z" transform="translate(-34.4 -8.809)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Mask_Group-2" data-name="Mask Group">
+      <g id="profile-img-10" data-name="profile-img" clip-path="url(#clip-path)">
+        <path id="Vector_2" data-name="Vector 2" d="M84.548,8.809c-8.667-2.8-27.44-3.52-33.2,16-7.082,24-34.267,24.667-48,27.6C-5.586,24.542-2.172-18.711,84.548,8.809Z" transform="matrix(0.866, 0.5, -0.5, 0.866, -15.634, -26.435)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Mask_Group-3" data-name="Mask Group">
+      <g id="profile-img-11" data-name="profile-img" clip-path="url(#clip-path)">
+        <path id="Vector_3" data-name="Vector 3" d="M84.548,8.809c-8.667-2.8-27.44-3.52-33.2,16-7.082,24-34.267,24.667-48,27.6C-5.586,24.542-2.172-18.711,84.548,8.809Z" transform="translate(3.004 -26.4) rotate(30)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Up" transform="translate(8 8)">
+      <path id="Vector" d="M18.333,0,10.417,7.917,6.25,3.75,0,10" transform="translate(0.833 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M0,0H5V5" transform="translate(14.167 5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
