@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="114" viewBox="0 0 114 114">
+  <defs>
+    <filter id="Rectangle_59" x="0" y="0" width="114" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_1" data-name="Group 1" transform="translate(-1065 -1249)">
+    <g transform="matrix(1, 0, 0, 1, 1065, 1249)" filter="url(#Rectangle_59)">
+      <rect id="Rectangle_59-2" data-name="Rectangle 59" width="24" height="24" rx="5" transform="translate(45 35)" fill="#fff8f8"/>
+    </g>
+    <g id="photo_camera">
+      <rect id="Vector" width="20" height="20" transform="translate(1112 1286)" fill="none"/>
+      <circle id="Vector-2" data-name="Vector" cx="2.5" cy="2.5" r="2.5" transform="translate(1119.5 1293.5)" fill="#676097"/>
+      <path id="Vector-3" data-name="Vector" d="M1128.667,1302.666h-13.333a1.668,1.668,0,0,1-1.667-1.666v-10a1.669,1.669,0,0,1,1.667-1.667h2.641l1.025-1.125a1.689,1.689,0,0,1,1.233-.541h3.533a1.65,1.65,0,0,1,1.225.541l1.034,1.125h2.641a1.669,1.669,0,0,1,1.667,1.667v10A1.668,1.668,0,0,1,1128.667,1302.666ZM1122,1291.83a4.17,4.17,0,1,0,4.17,4.17A4.175,4.175,0,0,0,1122,1291.83Z" fill="#676097"/>
+    </g>
+  </g>
+</svg>

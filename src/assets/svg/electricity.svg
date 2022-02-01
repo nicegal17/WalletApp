@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.875" height="24" viewBox="0 0 16.875 24">
+    <g id="_001-lightbulb_1" data-name="001-lightbulb 1" transform="translate(-1989.562 -1524)">
+        <g id="Group">
+            <path id="Vector"
+                d="M1998,1524c-.08,0-.16,0-.24,0a8.438,8.438,0,0,0-5.317,14.784,3.908,3.908,0,0,1,1.338,2.938v3.416h8.438v-3.416a3.927,3.927,0,0,1,1.347-2.945A8.437,8.437,0,0,0,1998,1524Z"
+                fill="#ffea98" />
+            <path id="Vector-2" data-name="Vector"
+                d="M1998,1524v21.141h4.219v-3.416a3.927,3.927,0,0,1,1.347-2.945A8.437,8.437,0,0,0,1998,1524Z"
+                fill="#ffd845" />
+            <rect id="Vector-3" data-name="Vector" width="5.63" height="4.27" transform="translate(1995.19 1543.73)"
+                fill="#0a617d" />
+            <rect id="Vector-4" data-name="Vector" width="2.81" height="4.27" transform="translate(1998 1543.73)"
+                fill="#08475e" />
+            <path id="Vector-5" data-name="Vector"
+                d="M1999.758,1532.437v1.083l-1.758,1.507-1.758-1.507v-1.083h-1.406v1.73l2.461,2.109v5.536h1.406v-5.536l2.461-2.109v-1.73Z"
+                fill="#ffb454" />
+            <path id="Vector-6" data-name="Vector"
+                d="M1999.758,1532.437v1.083l-1.758,1.507v6.785h.7v-5.536l2.461-2.109v-1.73Z" fill="#ff8e00" />
+            <rect id="Vector-7" data-name="Vector" width="8.44" height="3.33" transform="translate(1993.78 1541.81)"
+                fill="#f4f4f6" />
+            <rect id="Vector-8" data-name="Vector" width="4.22" height="3.33" transform="translate(1998 1541.81)"
+                fill="#d0d5f4" />
+        </g>
+    </g>
+</svg>

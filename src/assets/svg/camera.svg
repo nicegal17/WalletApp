@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g id="Camera" transform="translate(-1396 -433)">
+        <circle id="Ellipse_31" data-name="Ellipse 31" cx="20" cy="20" r="20" transform="translate(1396 433)"
+            fill="#807e84" />
+        <g id="photo_camera">
+            <rect id="Vector" width="24" height="24" transform="translate(1404 441)" fill="none" />
+            <circle id="Vector-2" data-name="Vector" cx="3" cy="3" r="3" transform="translate(1413 450)" fill="#fff" />
+            <path id="Vector-3" data-name="Vector"
+                d="M1424,461h-16a2,2,0,0,1-2-2V447a2,2,0,0,1,2-2h3.17l1.23-1.35a2.027,2.027,0,0,1,1.48-.65h4.24a1.982,1.982,0,0,1,1.47.65l1.24,1.35H1424a2,2,0,0,1,2,2v12A2,2,0,0,1,1424,461Zm-8-13a5,5,0,1,0,5,5A5.005,5.005,0,0,0,1416,448Z"
+                fill="#fff" />
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.77" height="32.53" viewBox="0 0 33.77 32.53">
+    <g id="Group_2" data-name="Group 2" transform="translate(-1805 -646.05)">
+        <rect id="Rectangle_23" data-name="Rectangle 23" width="33.77" height="32.53" rx="5"
+            transform="translate(1805 646.05)" fill="#fda325" />
+        <g id="credit_card">
+            <rect id="Vector" width="24" height="24.4" transform="translate(1810 651.12)" fill="none" />
+            <path id="Vector-2" data-name="Vector"
+                d="M1830,671.445h-16a2.019,2.019,0,0,1-2-2.033l.01-12.2a1.99,1.99,0,0,1,1.99-2.033h16a2.019,2.019,0,0,1,2,2.033v12.2A2.019,2.019,0,0,1,1830,671.445Zm-16-8.131V668.4a1.01,1.01,0,0,0,1,1.016h14a1.009,1.009,0,0,0,1-1.016v-5.082Zm0-6.1v2.03h16v-2.03Z"
+                fill="#fff" />
+        </g>
+    </g>
+</svg>

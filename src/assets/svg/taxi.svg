@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="22.801" viewBox="0 0 32 22.801">
+    <g id="_032-car-11" data-name="032-car-11" transform="translate(-1982 -1771.599)">
+        <g id="Group">
+            <path id="Vector"
+                d="M0,0H6.53A1.26,1.26,0,0,1,7.79,1.26V6.48A1.26,1.26,0,0,1,6.53,7.74H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z"
+                transform="translate(2002.95 1786.66)" fill="#64798a" />
+            <path id="Vector-2" data-name="Vector"
+                d="M0,0H6.53A1.26,1.26,0,0,1,7.79,1.26V6.48A1.26,1.26,0,0,1,6.53,7.74H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z"
+                transform="translate(1985.11 1786.66)" fill="#64798a" />
+        </g>
+        <path id="Vector-3" data-name="Vector"
+            d="M1982.342,1778.04s-1.3,9.368,1.171,12.49h28.753s2.6-6.505,1.431-11.839l-4.944-1.821h-22.118Z"
+            fill="#fcd462" />
+        <path id="Vector-4" data-name="Vector" d="M1986.635,1776.869l4.554-5.269h13.076l4.489,5.269Z" fill="#f6c358" />
+        <g id="Group-2" data-name="Group">
+            <path id="Vector-5" data-name="Vector"
+                d="M2012.071,1784.773l-14.767,1.171-13.628-1.171V1779.8l13.628.976,14.767-.976Z" fill="#dc8744" />
+            <path id="Vector-6" data-name="Vector"
+                d="M1984.359,1786.529l13.336.976,13.693-.976-.683,2.439-12.832.39-13.515-.585Z" fill="#dc8744" />
+        </g>
+        <path id="Vector-7" data-name="Vector" d="M1991.823,1772.722h11.124l2.147,3.025h-14.929Z" fill="#2d93ba" />
+        <path id="Vector-8" data-name="Vector" d="M1990.165,1775.747l1.659-3.025h11.124Z" fill="#27a2db" />
+        <g id="Group-3" data-name="Group">
+            <path id="Vector-9" data-name="Vector" d="M2008.2,1776.316l.26-.651h2.6v-1.431h-3.643v2.082Z"
+                fill="#f6c358" />
+            <path id="Vector-10" data-name="Vector" d="M1987.221,1776.316l-.26-.651h-2.6v-1.431H1988v2.082Z"
+                fill="#f6c358" />
+        </g>
+        <g id="Group-4" data-name="Group">
+            <circle id="Vector-11" data-name="Vector" cx="2.03" cy="2.03" r="2.03" transform="translate(2007.21 1780.5)"
+                fill="#d5d6db" />
+            <circle id="Vector-12" data-name="Vector" cx="2.03" cy="2.03" r="2.03" transform="translate(1984.15 1780.5)"
+                fill="#d5d6db" />
+            <path id="Vector-13" data-name="Vector" d="M1990.115,1788.488l-5-.247.058-1.17,5,.247Z" fill="#d5d6db" />
+            <path id="Vector-14" data-name="Vector" d="M2010.2,1788.442l-5.006.174-.041-1.17,5.006-.174Z"
+                fill="#d5d6db" />
+            <path id="Vector-15" data-name="Vector"
+                d="M2006.021,1784.051l-8.9.507-7.757-.507v-2.193l8.083.342,8.57-.342Z" fill="#d5d6db" />
+        </g>
+    </g>
+</svg>

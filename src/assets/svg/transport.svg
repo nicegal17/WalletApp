@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.275" height="32" viewBox="0 0 22.275 32">
+    <g id="_094-scooter-1" data-name="094-scooter-1" transform="translate(-1901.86 -1860)">
+        <path id="Vector"
+            d="M1913.962,1883.719h-1.925a.96.96,0,0,0-.96.96v6.361a.96.96,0,0,0,.96.96h1.925a.96.96,0,0,0,.96-.96v-6.361A.96.96,0,0,0,1913.962,1883.719Z"
+            fill="#64798a" />
+        <g id="Group">
+            <rect id="Vector-2" data-name="Vector" width="2.09" height="0.6" transform="translate(1911.31 1885.96)"
+                fill="#3a556a" />
+            <rect id="Vector-3" data-name="Vector" width="2.09" height="0.6" transform="translate(1911.31 1887.1)"
+                fill="#3a556a" />
+            <rect id="Vector-4" data-name="Vector" width="2.09" height="0.6" transform="translate(1911.31 1888.19)"
+                fill="#3a556a" />
+            <rect id="Vector-5" data-name="Vector" width="2.09" height="0.6" transform="translate(1911.31 1889.16)"
+                fill="#3a556a" />
+        </g>
+        <rect id="Vector-6" data-name="Vector" width="18.99" height="1.46" transform="translate(1903.63 1862.68)"
+            fill="#64798a" />
+        <circle id="Vector-7" data-name="Vector" cx="3.41" cy="3.41" r="3.41" transform="translate(1909.71 1860)"
+            fill="#dc8744" />
+        <circle id="Vector-8" data-name="Vector" cx="2.3" cy="2.3" r="2.3" transform="translate(1910.82 1861.11)"
+            fill="#fcd462" />
+        <g id="Group-2" data-name="Group">
+            <path id="Vector-9" data-name="Vector"
+                d="M.73,0H4.71a.73.73,0,0,1,.73.73v1.7a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V.73A.73.73,0,0,1,.73,0Z"
+                transform="translate(1901.86 1862.19)" fill="#e56353" />
+            <path id="Vector-10" data-name="Vector"
+                d="M1923.407,1862.191H1918.7v2.434h4.707a.729.729,0,0,0,.729-.729v-.976A.729.729,0,0,0,1923.407,1862.191Z"
+                fill="#e56353" />
+        </g>
+        <path id="Vector-11" data-name="Vector"
+            d="M1915.185,1866.635h-4.37a6.009,6.009,0,0,0-6.009,6.009v10.583a2.485,2.485,0,0,0,2.485,2.485h11.419a2.485,2.485,0,0,0,2.485-2.485v-10.583A6.009,6.009,0,0,0,1915.185,1866.635Z"
+            fill="#27a2db" />
+        <path id="Vector-12" data-name="Vector"
+            d="M1904.805,1874.244v9.091a2.377,2.377,0,0,0,2.377,2.377h6.4v-19.077C1909.592,1866.306,1904.354,1867.172,1904.805,1874.244Z"
+            fill="#2d93ba" />
+        <rect id="Vector-13" data-name="Vector" width="9.61" height="9.31" transform="translate(1908.19 1871.66)"
+            fill="#d5d6db" />
+        <rect id="Vector-14" data-name="Vector" width="4.87" height="9.31" transform="translate(1912.94 1871.66)"
+            fill="#e1e6e9" />
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28.151" height="32" viewBox="0 0 28.151 32">
+  <g id="_083-ship-4" data-name="083-ship-4" transform="translate(-1813.924 -1767)">
+    <rect id="Vector" width="1.02" height="10.32" transform="translate(1827.02 1767)" fill="#fcd462"/>
+    <rect id="Vector-2" data-name="Vector" width="15.98" height="6.66" transform="translate(1819.54 1780.89)" fill="#ebf0f3"/>
+    <rect id="Vector-3" data-name="Vector" width="13.5" height="4.5" transform="translate(1820.78 1776.4)" fill="#3ea69b"/>
+    <path id="Vector-4" data-name="Vector" d="M1839.034,1786.318l-11.623-4.649-11.453,5.336a1.426,1.426,0,0,0-.74,1.772l1.716,4.805v4.306h20.811v-4.306l2.085-5.444A1.415,1.415,0,0,0,1839.034,1786.318Z" fill="#3a556a"/>
+    <path id="Vector-5" data-name="Vector" d="M1815.958,1787.005a1.426,1.426,0,0,0-.74,1.772l1.716,4.805v4.306h10.478v-16.219Z" fill="#64798a"/>
+    <path id="Vector-6" data-name="Vector" d="M1827.434,1799a3.973,3.973,0,0,1-2.693-.945c-3.387,1.572-5.658.481-6.452-.039a7.758,7.758,0,0,1-4.365.474l.253-1.12a6.7,6.7,0,0,0,3.933-.532l.342-.163.285.251c.084.072,2.18,1.8,5.866-.08l.439-.225.288.4c.056.074,1.527,1.926,5.384-.169l.255-.139.263.123a8.15,8.15,0,0,0,6.042-.01l.276-.115.252.16a6.606,6.606,0,0,0,4.107.449l.167,1.136a8.157,8.157,0,0,1-4.611-.469,9.239,9.239,0,0,1-6.446,0A7.862,7.862,0,0,1,1827.434,1799Z" fill="#27a2db"/>
+    <g id="Group">
+      <rect id="Vector-7" data-name="Vector" width="1.83" height="2.64" transform="translate(1831.08 1777.32)" fill="#d5d6db"/>
+      <rect id="Vector-8" data-name="Vector" width="1.83" height="2.64" transform="translate(1828.14 1777.32)" fill="#d5d6db"/>
+      <rect id="Vector-9" data-name="Vector" width="1.83" height="2.64" transform="translate(1825.05 1777.32)" fill="#d5d6db"/>
+      <rect id="Vector-10" data-name="Vector" width="1.83" height="2.64" transform="translate(1822.14 1777.32)" fill="#d5d6db"/>
+    </g>
+    <path id="Vector-11" data-name="Vector" d="M1827.529,1773l-3.547-4.624.812-.623,2.735,3.565,2.735-3.565.812.623Z" fill="#fcd462"/>
+    <rect id="Vector-12" data-name="Vector" width="6.75" height="0.94" transform="translate(1824.33 1773.57)" fill="#64798a"/>
+  </g>
+</svg>

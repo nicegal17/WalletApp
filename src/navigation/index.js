@@ -1,16 +1,15 @@
 import React from 'react';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 
-import MyWalletScreen from '../screens/MyWalletScreen';
-import DetailActivityScreen from '../screens/DetailActivityScreen';
-import AddPaymentScreen from '../screens/AddPaymentScreen';
+import DashboardScreen from '../screens/DashboardScreen';
+import RootStack from './tab';
 
 const Stack = createNativeStackNavigator();
 
-const RootStack = () => {
+function IntroStack() {
   return (
     <Stack.Navigator
-      initialRouteName="MyWalletScreen"
+      initialRouteName="DashboardScreen"
       screenOptions={{
         headerStyle: {
           elevation: 0,
@@ -19,22 +18,17 @@ const RootStack = () => {
         },
       }}>
       <Stack.Screen
-        name="AddPaymentScreen"
-        component={AddPaymentScreen}
+        name="DashboardScreen"
+        component={DashboardScreen}
         options={{headerShown: false}}
       />
       <Stack.Screen
-        name="MyWalletScreen"
-        component={MyWalletScreen}
-        options={{headerShown: false}}
-      />
-      <Stack.Screen
-        name="DetailActivityScreen"
-        component={DetailActivityScreen}
+        name="RootStack"
+        component={RootStack}
         options={{headerShown: false}}
       />
     </Stack.Navigator>
   );
-};
+}
 
-export default RootStack;
+export default IntroStack;

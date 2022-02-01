@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <g id="assessment" transform="translate(-1032 -763)">
+        <rect id="Vector" width="24" height="24" transform="translate(1032 763)" fill="none" />
+        <path id="Vector-2" data-name="Vector"
+            d="M1051,784h-14a2,2,0,0,1-2-2V768a2,2,0,0,1,2-2h14a2,2,0,0,1,2,2v14A2,2,0,0,1,1051,784Zm-4-8v4h2v-4Zm-4-6v10h2V770Zm-4,3v7h2v-7Z"
+            fill="#676097" />
+    </g>
+</svg>

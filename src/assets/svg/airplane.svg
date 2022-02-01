@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.634" height="32" viewBox="0 0 25.634 32">
+    <g id="_035-airplane-1" data-name="035-airplane-1" transform="translate(-1815.183 -1860)">
+        <g id="Group">
+            <path id="Vector"
+                d="M1837.381,1875.963l-.342-.239a.574.574,0,0,0-.8.142l-.65.931,1.282.9.65-.931A.573.573,0,0,0,1837.381,1875.963Z"
+                fill="#f6c358" />
+            <path id="Vector-2" data-name="Vector"
+                d="M1819.934,1875.451a.573.573,0,0,0-.8-.142l-.342.239a.573.573,0,0,0-.142.8l.65.931,1.282-.9Z"
+                fill="#f6c358" />
+        </g>
+        <path id="Vector-3" data-name="Vector" d="M1826.177,1879.246l-10.994,4.015v-3.155l10.994-8.508Z"
+            fill="#3ea69b" />
+        <path id="Vector-4" data-name="Vector" d="M1815.183,1880.106l10.994-8.508v2.02l-10.994,7.349Z" fill="#e56353" />
+        <path id="Vector-5" data-name="Vector" d="M1829.924,1879.223l10.646,4.863.247-3.145-10.3-9.342Z"
+            fill="#3ea69b" />
+        <path id="Vector-6" data-name="Vector" d="M1840.817,1880.94l-10.3-9.342-.158,2.014,10.386,8.186Z"
+            fill="#e56353" />
+        <path id="Vector-7" data-name="Vector"
+            d="M1826.4,1885.786l-5.115,2.677V1892l6.692-2.39,7.075,2.39v-3.537l-5.5-2.677Z" fill="#44c4a1" />
+        <g id="Group-2" data-name="Group">
+            <path id="Vector-8" data-name="Vector" d="M1821.284,1891.115l5.084-2.079v1.148l-5.084,1.816Z"
+                fill="#e56353" />
+            <path id="Vector-9" data-name="Vector" d="M1829.923,1890.268l5.127,1.732v-.866l-4.871-1.913Z"
+                fill="#e56353" />
+        </g>
+        <path id="Vector-10" data-name="Vector"
+            d="M1831.652,1864.839l-1.509,25a2.067,2.067,0,0,1-3.993,0l-1.45-24.045c-.184-3.059,1.516-5.789,3.818-5.789C1830.411,1860,1831.808,1862.263,1831.652,1864.839Z"
+            fill="#d5d6db" />
+        <path id="Vector-11" data-name="Vector"
+            d="M1824.7,1865.789c-.184-3.059,1.516-5.789,3.818-5.789,1.892,0,3.532,2.239,3.133,5.789" fill="#e56353" />
+    </g>
+</svg>

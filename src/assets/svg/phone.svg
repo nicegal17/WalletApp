@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.154" height="24" viewBox="0 0 16.154 24">
+    <g id="_039-smartphone" data-name="039-smartphone" transform="translate(-2074.938 -1524)">
+        <path id="Vector"
+            d="M2089.014,1524h-12a2.079,2.079,0,0,0-2.077,2.077v19.846a2.079,2.079,0,0,0,2.077,2.077h12a2.079,2.079,0,0,0,2.077-2.077v-19.846a2.079,2.079,0,0,0-2.077-2.077Z"
+            fill="#5f69e3" />
+        <path id="Vector-2" data-name="Vector"
+            d="M2089.014,1524h-6v24h6a2.079,2.079,0,0,0,2.077-2.077v-19.846a2.079,2.079,0,0,0-2.077-2.077Z"
+            fill="#3440db" />
+        <path id="Vector-3" data-name="Vector"
+            d="M2088.091,1528.154h-10.154a.692.692,0,0,0-.692.692v13.846a.692.692,0,0,0,.692.692h10.154a.693.693,0,0,0,.692-.692v-13.846A.692.692,0,0,0,2088.091,1528.154Z"
+            fill="#fcf2b6" />
+        <path id="Vector-4" data-name="Vector"
+            d="M2084.861,1527.462H2081.4a.692.692,0,0,1,0-1.385h3.462a.692.692,0,0,1,0,1.385Z" fill="#283593" />
+        <circle id="Vector-5" data-name="Vector" cx="1.15" cy="1.15" r="1.15" transform="translate(2081.86 1543.85)"
+            fill="#4895ff" />
+        <path id="Vector-6" data-name="Vector"
+            d="M2088.091,1528.154h-5.077v15.231h5.077a.693.693,0,0,0,.692-.692v-13.846A.692.692,0,0,0,2088.091,1528.154Z"
+            fill="#ffde91" />
+        <path id="Vector-7" data-name="Vector" d="M2084.861,1526.077h-1.846v1.385h1.846a.692.692,0,0,0,0-1.385Z"
+            fill="#1a237e" />
+        <path id="Vector-8" data-name="Vector" d="M2083.014,1543.846v2.308a1.154,1.154,0,1,0,0-2.308Z" fill="#046eff" />
+    </g>
+</svg>
